@@ -1,0 +1,10 @@
+com\backend\api\Entity\Enrollment.class
+com\backend\api\Entity\Student.class
+com\backend\api\Controller\CourseController.class
+com\backend\api\Controller\StudentController.class
+com\backend\api\Repository\CourseRepository.class
+com\backend\api\Repository\StudentRepository.class
+com\backend\api\Service\CourseService.class
+com\backend\api\Service\StudentService.class
+com\backend\api\ApiApplication.class
+com\backend\api\Entity\Course.class

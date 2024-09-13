@@ -1,0 +1,10 @@
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\ApiApplication.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Controller\CourseController.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Controller\StudentController.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Entity\Course.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Entity\Enrollment.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Entity\Student.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Repository\CourseRepository.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Repository\StudentRepository.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Service\CourseService.java
+D:\Enterprise Software\College ERP\backend\src\main\java\com\backend\api\Service\StudentService.java
